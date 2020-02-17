@@ -1,7 +1,7 @@
 *Files to look at*:
-* [_rootLayout.cshtml](./CS/_rootLayout.cshtml)
-* [beforeRender.js](./CS/aspxdashboard-how-to-enable-export-in-datainspector/beforeRender.js)
-* [Index.cshtml](./CS/Views/Home)
+* [_rootLayout.cshtml](./CS/datainspectorExport/Views/Shared/_rootLayout.cshtml)
+* [beforeRender.js](./CS/datainspectorExport/Scripts/aspxdashboard-how-to-enable-export-in-datainspector/beforeRender.js)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
 
 # ASP.NET MVC Dashboard - How to Enable Export in Data Inspector
 
