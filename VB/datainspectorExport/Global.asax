@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="datainspectorExport.MvcApplication" Language="vb" %>
