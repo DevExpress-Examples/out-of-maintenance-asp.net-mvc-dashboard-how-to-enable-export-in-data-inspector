@@ -1,7 +1,7 @@
 *Files to look at*:
-* [_rootLayout.cshtml](./CS/datainspectorExport/Views/Shared/_rootLayout.cshtml)
-* [beforeRender.js](./CS/datainspectorExport/Scripts/beforeRender.js)
-* [Index.cshtml](./CS/datainspectorExport/Views/Home/Index.cshtml)
+* [\_rootLayout.cshtml](./CS/datainspectorExport/Views/Shared/_rootLayout.cshtml) (VB: [rootLayout.cshtml](./VB/datainspectorExport/Views/Shared/_rootLayout.cshtml) )
+* [beforeRender.js](./CS/datainspectorExport/Scripts/beforeRender.js) (VB: [beforeRender.js](./VB/datainspectorExport/Scripts/beforeRender.js) )
+* [Index.cshtml](./CS/datainspectorExport/Views/Home/Index.cshtml) (VB: [Index.cshtml](./VB/datainspectorExport/Views/Home/Index.cshtml) )
 
 # ASP.NET MVC Dashboard - How to Enable Export in Data Inspector
 
