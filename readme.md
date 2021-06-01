@@ -11,14 +11,14 @@ This example demonstrates how to enable export to Excel in [Data Inspector](http
 ![](images/data_inspector_export.png)
 
 
-Install and reference the additional third-party library in your application to enable client-side export. Refer to the following topic for more information: [DevExtreme Client-Side Export](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDataGrid/Configuration/export/).
+
 
 Follow the steps below to enable export to Excel:
 
 1. Subscribe to the [BeforeRender](https://docs.devexpress.com/Dashboard/js-ASPxClientDashboard#js_aspxclientdashboard_beforerender) event. 
 2. Call the [DashboardControl.option](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardControl?p=netframework#js_devexpress_dashboard_dashboardcontrol_option_args_) method and get access to the [DataInspectorExtension](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DataInspectorExtension) options.
 3. Use the [DataInspectorExtensionOptions.onGridInitialized](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DataInspectorExtensionOptions#js_devexpress_dashboard_datainspectorextensionoptions_ongridinitialized) property to enable export in the Grid widget before its content is loaded.
-4. Install and reference additional libraries required for client-side export.
+4. Install and reference the additional third-party library required for client-side export. Refer to the following topic for more information: [DevExtreme Client-Side Export](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDataGrid/Configuration/export/).
 
 ## Documentation
 
