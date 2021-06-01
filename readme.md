@@ -10,9 +10,6 @@ This example demonstrates how to enable export to Excel in [Data Inspector](http
 
 ![](images/data_inspector_export.png)
 
-
-
-
 Follow the steps below to enable export to Excel:
 
 1. Subscribe to the [BeforeRender](https://docs.devexpress.com/Dashboard/js-ASPxClientDashboard#js_aspxclientdashboard_beforerender) event. 
