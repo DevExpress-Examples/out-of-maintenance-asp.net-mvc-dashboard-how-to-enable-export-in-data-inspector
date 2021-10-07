@@ -8,7 +8,7 @@ Namespace datainspectorExport
 		Private Sub New()
 		End Sub
 		Public Shared Sub RegisterService(ByVal routes As RouteCollection)
-			routes.MapDashboardRoute("dashboardControl")
+			routes.MapDashboardRoute("dashboardControl", "DefaultDashboard")
 
 			Dim dashboardFileStorage As New DashboardFileStorage("~/App_Data/Dashboards")
 			DashboardConfigurator.Default.SetDashboardStorage(dashboardFileStorage)
