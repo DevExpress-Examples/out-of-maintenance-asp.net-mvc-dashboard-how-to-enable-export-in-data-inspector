@@ -24,7 +24,7 @@ Follow the steps below to enable export to Excel:
 
 ## Documentation
 
-* [Export Data in Data Inspector](https://docs.devexpress.com/Dashboard/401194/common-features/underlying-and-displayed-data/data-inspector#export-data)
+* [Manage Data Inspector in the ASP.NET MVC Dashboard Extension](https://docs.devexpress.com/Dashboard/403978/web-dashboard/aspnet-mvc-dashboard-extension/manage-data-inspector-in-asp-net-mvc-dashboard-extension)
 * [Access to Underlying Widgets](https://docs.devexpress.com/Dashboard/401089/web-dashboard/aspnet-mvc-dashboard-extension/access-to-underlying-widgets?p=netframework)
 * [Client-Side API Overview for ASP.NET MVC Dashboard](https://docs.devexpress.com/Dashboard/16796/web-dashboard/aspnet-mvc-dashboard-extension/client-side-api-overview?p=netframework)
 
