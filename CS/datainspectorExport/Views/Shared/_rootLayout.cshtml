@@ -6,7 +6,10 @@
     <title>Dashboard Web Application</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <script src="~/Scripts/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.12.1/polyfill.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/exceljs/3.8.0/exceljs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
     @Html.DevExpress().GetStyleSheets(
         new StyleSheet { ExtensionSuite = ExtensionSuite.Dashboard }
     )
@@ -14,6 +17,7 @@
         new Script { ExtensionSuite = ExtensionSuite.Dashboard }
     )
     <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+
     <script src="~/Scripts/beforeRender.js"></script>
 </head>
 <body>
